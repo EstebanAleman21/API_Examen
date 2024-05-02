@@ -42,7 +42,7 @@ pip install -r requirements.txt
 Ejecuta el archivo server.py:
 python server.py
 
-#### Esto iniciará el servidor en tu máquina local en el puerto 5000.
+#### Esto iniciará el servidor en tu máquina local en el puerto 3001. http://127.0.0.1:3001
 
 ### Cliente
 

@@ -36,7 +36,7 @@ def send_encrypted_image(encrypted_image, key, server_url):
 
 if __name__ == "__main__":
     image_path = 'imagen.jpeg'  # Ruta de la imagen local
-    server_url = 'http://127.0.0.1:5000/decrypt_image'  # URL del servidor
+    server_url = 'http://127.0.0.1:3001/decrypt_image'  # URL del servidor
 
     # Encriptar la imagen y obtener la clave
     encrypted_image, key = encrypt_image(image_path, None)
