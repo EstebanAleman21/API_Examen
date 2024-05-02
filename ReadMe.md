@@ -1,4 +1,4 @@
-# Encrypt-Decrypt-Image-Server
+# Encriptar Imagen y desencriptar en servidor
 
 Este es un proyecto simple que demuestra cómo encriptar una imagen, enviarla a un servidor y luego desencriptarla en el servidor utilizando el algoritmo de cifrado simétrico Fernet de la librería cryptography. Este README proporciona instrucciones detalladas sobre cómo configurar y ejecutar el servidor y el cliente.
 
